@@ -1,0 +1,10 @@
+[package]
+name = "http_requester"
+version = "0.1.0"
+authors = ["Cliff H <cliffhazelton@gmail.com>"]
+
+[dependencies]
+hyper       = "0.8.0"
+serde       = "0.7.0"
+serde_json  = "0.7.0"
+
